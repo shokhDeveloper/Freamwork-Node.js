@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Shohijahon",
+        "age": 17,
+        "gender": "male",
+        "userId":1
+    },
+    {
+        "name": "Leo Messi",
+        "age": 36,
+        "gender": "male",
+        "userId":2
+    },
+    {
+        "name": "Abror",
+        "age": 19,
+        "gender": "female",
+        "userId":3
+    },
+    {
+        "name": "Ramazon",
+        "age": 20,
+        "gender": "female",
+        "userId":4
+    },
+    {
+        "name": "Sunnatbek",
+        "age": 22,
+        "gender": "male",
+        "userId":5
+    },
+    {
+        "name": "Sunnatbek",
+        "age": 22,
+        "gender": "male",
+        "userId":6
+    },
+    {
+        "name": "Undertaker",
+        "age": 60,
+        "gender": "male",
+        "userId":7
+    }
+]
